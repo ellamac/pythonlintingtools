@@ -20,7 +20,8 @@ Answer the following questions:
 
 BadPythonCode.py:
 
-`import os, sys
+```
+import os, sys
 
 class exampleClass:
 def **init**(self,val1,val2):
@@ -72,4 +73,5 @@ if **name**=="**main**":
 another_function()
 unused_function()
 yet_another_function()
-function_with_too_many_arguments(1,2,3,4,5,6,7,8,9,10,11)`
+function_with_too_many_arguments(1,2,3,4,5,6,7,8,9,10,11)
+```
