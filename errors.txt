@@ -1,0 +1,51 @@
+./BadPythonCode.py:1:10: E401 multiple imports on one line
+./BadPythonCode.py:3:1: E302 expected 2 blank lines, found 1
+./BadPythonCode.py:4:1: E112 expected an indented block
+./BadPythonCode.py:4:1: E999 IndentationError: expected an indented block
+./BadPythonCode.py:4:18: E231 missing whitespace after ','
+./BadPythonCode.py:4:23: E231 missing whitespace after ','
+./BadPythonCode.py:5:1: E305 expected 2 blank lines after class or function definition, found 0
+./BadPythonCode.py:5:1: E112 expected an indented block
+./BadPythonCode.py:5:10: E225 missing whitespace around operator
+./BadPythonCode.py:6:10: E225 missing whitespace around operator
+./BadPythonCode.py:8:5: E113 unexpected indentation
+./BadPythonCode.py:12:1: E302 expected 2 blank lines, found 1
+./BadPythonCode.py:13:1: E305 expected 2 blank lines after class or function definition, found 0
+./BadPythonCode.py:13:1: E112 expected an indented block
+./BadPythonCode.py:18:17: E231 missing whitespace after ','
+./BadPythonCode.py:19:1: E112 expected an indented block
+./BadPythonCode.py:21:1: E302 expected 2 blank lines, found 1
+./BadPythonCode.py:22:1: E305 expected 2 blank lines after class or function definition, found 0
+./BadPythonCode.py:22:1: E112 expected an indented block
+./BadPythonCode.py:26:13: E225 missing whitespace around operator
+./BadPythonCode.py:26:16: E201 whitespace after '{'
+./BadPythonCode.py:26:23: E231 missing whitespace after ':'
+./BadPythonCode.py:26:32: E231 missing whitespace after ','
+./BadPythonCode.py:26:39: E231 missing whitespace after ':'
+./BadPythonCode.py:26:48: E231 missing whitespace after ','
+./BadPythonCode.py:26:55: E231 missing whitespace after ':'
+./BadPythonCode.py:26:64: E202 whitespace before '}'
+./BadPythonCode.py:30:1: E402 module level import not at top of file
+./BadPythonCode.py:31:1: E402 module level import not at top of file
+./BadPythonCode.py:39:1: E302 expected 2 blank lines, found 1
+./BadPythonCode.py:41:1: E115 expected an indented block (comment)
+./BadPythonCode.py:43:1: E305 expected 2 blank lines after class or function definition, found 1
+./BadPythonCode.py:43:1: E112 expected an indented block
+./BadPythonCode.py:44:1: E112 expected an indented block
+./BadPythonCode.py:46:1: E302 expected 2 blank lines, found 1
+./BadPythonCode.py:47:1: E305 expected 2 blank lines after class or function definition, found 0
+./BadPythonCode.py:47:1: E112 expected an indented block
+./BadPythonCode.py:49:10: E225 missing whitespace around operator
+./BadPythonCode.py:49:13: E225 missing whitespace around operator
+./BadPythonCode.py:50:1: E112 expected an indented block
+./BadPythonCode.py:53:35: E231 missing whitespace after ','
+./BadPythonCode.py:53:37: E231 missing whitespace after ','
+./BadPythonCode.py:53:39: E231 missing whitespace after ','
+./BadPythonCode.py:53:41: E231 missing whitespace after ','
+./BadPythonCode.py:53:43: E231 missing whitespace after ','
+./BadPythonCode.py:53:45: E231 missing whitespace after ','
+./BadPythonCode.py:53:47: E231 missing whitespace after ','
+./BadPythonCode.py:53:49: E231 missing whitespace after ','
+./BadPythonCode.py:53:51: E231 missing whitespace after ','
+./BadPythonCode.py:53:54: E231 missing whitespace after ','
+./BadPythonCode.py:53:58: W292 no newline at end of file
